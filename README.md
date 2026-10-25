@@ -1,2 +1,2 @@
 # UDEE
-UDEE is community find out the best match condo and dominitory
+UDEE is community where people find out the best match condo and dominitory
