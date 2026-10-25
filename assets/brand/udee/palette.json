@@ -1,0 +1,27 @@
+{
+  "name": "UDEE",
+  "version": "1.0.0",
+  "colors": {
+    "forest": "#173F35",
+    "sage": "#A8C4AE",
+    "cream": "#FAF8F1",
+    "lime": "#E8F1CB",
+    "text": "#233C33",
+    "mutedText": "#56685E",
+    "border": "#DCE4D8"
+  },
+  "recommendedPairs": [
+    {
+      "foreground": "forest",
+      "background": "cream"
+    },
+    {
+      "foreground": "cream",
+      "background": "forest"
+    },
+    {
+      "foreground": "text",
+      "background": "lime"
+    }
+  ]
+}
